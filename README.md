@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-thakkar-7&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-thakkar-7" /> </p>
 
-- 🌱 I’m currently learning **natural language processing (NLP) techniques**
+- 🌱 I’m currently learning **Advanced natural language processing (NLP) techniques**
 
 - 📫 How to reach me **anshthakkar752005@gmail.com**
 
