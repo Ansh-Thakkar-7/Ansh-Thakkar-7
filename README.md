@@ -1,5 +1,7 @@
+![MasterHead](https://blog.tuf.edu.pk/wp-content/uploads/2021/07/AI.jpg)
 <h1 align="center">Hi 👋, I'm Ansh Thakkar</h1>
 <h3 align="center">A machine learning developer with experience in building AI/ML models, working with NLP, CNN. As a active learner, I've worked on various projects, including an AI/ML model for crop disease classification that won first prize at a hackathon. I'm always looking for new challenges and ways to contribute to meaningful projects.</h3>
+<image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-thakkar-7&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-thakkar-7" /> </p>
 
